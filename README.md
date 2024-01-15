@@ -1,8 +1,11 @@
 # rBNB
 
 空气项目，仅用作测试，挖矿有风险，请谨慎使用，保护好您的私钥和钱包
+
 测试教程：https://www.youtube.com/watch?v=lZggG59WwT4
+
 交流电报群：https://t.me/BitHunterCN
+
 
 
 rbnb脚本
